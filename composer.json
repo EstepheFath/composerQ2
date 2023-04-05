@@ -1,0 +1,14 @@
+{
+    "name": "composer/2",
+    "autoload": {
+        "psr-4":
+            "App\\"
+
+    },
+    "authors": [
+        {
+            "name": "estephe"
+        }
+    ],
+    "require": {}
+}
